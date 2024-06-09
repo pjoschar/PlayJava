@@ -1,3 +1,13 @@
+
+
+PHILOU 
+Mutiple DataSource en SpringBoot : VOIR multi-datasource-poc
+https://www.youtube.com/watch?v=k-1OboD7X5w
+
+
+
+
+
 # PlayJava
 
 
